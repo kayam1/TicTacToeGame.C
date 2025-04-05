@@ -1,7 +1,7 @@
 # TicTacToeGame.C
 Project for C programming class in university
 
-This is what DeepSeek had to say...
+This is what DeepSeek had to say:
 
 Key Achievements in Your Project:
 
